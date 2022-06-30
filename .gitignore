@@ -1,0 +1,8 @@
+bin/
+dataset/
+include/
+lib
+lib64
+data.json
+pyvenv.cfg
+__pyache__/
